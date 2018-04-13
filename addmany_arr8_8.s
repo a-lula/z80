@@ -33,7 +33,7 @@
 	LD   H,D
 	LD	 L,E
 	
-    ADD  HL,DE
+   	ADD  HL,DE
 	MOV	 D,H
 	MOV	 E,L
 	POP  HL
