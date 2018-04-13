@@ -6,11 +6,11 @@ addmany_arr8_8.s:
 
 Takes two arguments: UBYTE,UBYTE*
 where UBYTE is the size of the array
-Returns an 8 bit result given an array of BYTE
+and returns an 8 bit result of the sum of all the elements
 
 
 addmany_arr16_16.s:
   
-Takes two arguments: UBYTE,UBYTE*
+Takes two arguments: UBYTE,UINT16*
 where UBYTE is the size of the array 
-Returns a 16 bit result given an array of INT16
+and returns a 16 bit result of the sum of all the elements
